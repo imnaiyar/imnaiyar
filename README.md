@@ -1,7 +1,5 @@
-- 👋 Hi, I’m a Med Student currently entering the final year of my college 
-- 👀 I also love coding, so I'm currently looking for ways to improve my programming knowledge 
-- 🌱 I’m currently learning Javascript/NodeJs
-
+ - Doctor 🩺
+ - Node.js, React, Next.js
 ## Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imnaiyar&show_icons=true&theme=dark" />
 
