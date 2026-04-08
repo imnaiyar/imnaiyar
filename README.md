@@ -5,5 +5,5 @@
 
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imnaiyar&layout=compact&langs_count=10&hide=Shell&card_width=400&theme=dark" />
 
-![](https://github-stats-extended.vercel.app/api?username=imnaiyar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://contrib-stats.vercel.app/api?username=imnaiyar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
